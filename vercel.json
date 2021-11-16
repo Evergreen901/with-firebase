@@ -1,13 +1,13 @@
 {
   "build": {
     "env": {
-      "FIREBASE_API_KEY": "@firebase-api-key",
-      "FIREBASE_AUTH_DOMAIN": "@firebase-auth-domain",
-      "FIREBASE_DATABASE_URL": "@firebase-database-url",
-      "FIREBASE_PROJECT_ID": "@firebase-project-id",
-      "FIREBASE_STORAGE_BUCKET": "@firebase-storage-bucket",
-      "FIREBASE_MESSAGING_SENDER_ID": "@firebase-messaging-sender-id",
-      "FIREBASE_APP_ID": "@firebase-app-id"
+      "FIREBASE_API_KEY": "AIzaSyBKJ6TPIUEEs6Yoq_0NVjoNFxEGcKqC5_s",
+      "FIREBASE_AUTH_DOMAIN": "leadedge-nft-marketplace.firebaseapp.com",
+      "FIREBASE_DATABASE_URL": "leadedge-nft-marketplace",
+      "FIREBASE_PROJECT_ID": "leadedge-nft-marketplace.appspot.com",
+      "FIREBASE_STORAGE_BUCKET": "345396530062",
+      "FIREBASE_MESSAGING_SENDER_ID": "1:345396530062:web:27205cee6859c2a1de72df",
+      "FIREBASE_APP_ID": "G-55YRD7ZCZ3"
     }
   }
 }
